@@ -23,6 +23,7 @@
 |Freshworks Freshservice|Freshservice is a cloud-based IT Help Desk and service management solution that enables organizations to simplify their IT operations. The solution offers features that include a ticketing system, self-service portal and knowledge-base.|
 |Functions|A set of math and data manipulation actions created for Google SecOps Community to power up playbook capabilities.|
 |Google Chronicle|Google SecOps enables you to examine the aggregated security information for your enterprise going back for months or longer. Use Google SecOps to search across all of the domains accessed from within your enterprise. To enable the Google API client to communicate with the Backstory API you will need Google Developer Service Account Credential, https://developers.google.com/identity/protocols/OAuth2#serviceaccount.|
+|Google SecOps AI Agents|This integration provides first-party AI agents for Google Chronicle. It allows users to leverage Google's advanced AI capabilities for security operations and threat intelligence within the Chronicle platform.|
 |Google Security Command Center|Security management, data risk & compliance monitoring platform to help with vulnerability management. Detect & respond to security vulnerabilities.|
 |IntSights|The only all-in-one external threat protection platform designed to neutralize cyberattacks outside the wire.|
 |Lists|A set of tools to facilitate managing custom lists within Google SecOps.|
