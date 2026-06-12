@@ -1,0 +1,50 @@
+[
+    {
+        "name": "projects/project/locations/location/instances/instance/environments/63",
+        "id": 0,
+        "system": false,
+        "displayName": "*",
+        "description": "*",
+        "contact": "a",
+        "contactEmails": "a@gmail.com",
+        "contactPhone": "12345435",
+        "retentionDuration": 3,
+        "dynamicParameters": [],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/environments/62",
+        "id": 0,
+        "system": false,
+        "displayName": "1.0.1.0/11",
+        "description": "Domain 1.0.1.0/11",
+        "contact": "N/A",
+        "contactEmails": "example@example.com",
+        "contactPhone": "0000000000",
+        "retentionDuration": 3,
+        "dynamicParameters": [],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/environments/1",
+        "id": 0,
+        "system": true,
+        "displayName": "Default Environment",
+        "description": "Default Environment",
+        "contact": "N/A",
+        "contactEmails": "example@example.com",
+        "contactPhone": "0000000000",
+        "retentionDuration": 3,
+        "dynamicParameters": [],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    }
+]
